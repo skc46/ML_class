@@ -1,3 +1,5 @@
+This is the repository for the PH482/PH582 Machine Learning course. We are going to be using the notebooks developed by A. Geron for the O'Reilly book.
+
 Machine Learning Notebooks
 ==========================
 

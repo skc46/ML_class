@@ -42,8 +42,8 @@ Start by installing [Anaconda](https://www.anaconda.com/distribution/) (or [Mini
 
 Next, clone this project by opening a terminal and typing the following commands (do not type the first `$` signs on each line, they just indicate that these are terminal commands):
 
-    $ git clone https://github.com/ageron/handson-ml2.git
-    $ cd handson-ml2
+    $ git clone https://github.com/ddyachkova/PH482-PH582.git
+    $ cd PH482-PH582
 
 If you want to use a GPU, then edit `environment.yml` (or `environment-windows.yml` on Windows) and replace `tensorflow=2.0.0` with `tensorflow-gpu=2.0.0`. Also replace `tensorflow-serving-api==2.0.0` with `tensorflow-serving-api-gpu==2.0.0`.
 

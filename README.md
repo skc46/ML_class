@@ -1,4 +1,4 @@
-Welcome to the main repository of the PH482/582 (Machine learning) course at University of Alabama. 
+Welcome to the main repository of the PH482/582 (Machine Learning) course at the University of Alabama. 
 In this repository, you can find the recipe to set up the environment for the practical tasks of the course as well as the hands-on assignments. The exercises are based on the second edition of Aurelien Geron's O'Reilly book [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/):
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51aqYc1QyrL._SX379_BO1,204,203,200_.jpg" title="book" width="150" />

@@ -35,6 +35,8 @@ Read the [Docker instructions](https://github.com/ageron/handson-ml2/tree/master
 
 ### Want to install this project on your own machine?
 
+**Note**: The recipe below is valid for Mac, Windows, and Linux machines. 
+
 Start by installing [Anaconda](https://www.anaconda.com/distribution/) (or [Miniconda](https://docs.conda.io/en/latest/miniconda.html)), [git](https://git-scm.com/downloads), and if you have a TensorFlow-compatible GPU, install the [GPU driver](https://www.nvidia.com/Download/index.aspx).
 
 Next, clone this project by opening a terminal and typing the following commands (do not type the first `$` signs on each line, they just indicate that these are terminal commands):

@@ -7,7 +7,7 @@ Next, clone this repository by opening a terminal and typing the following comma
 
     $ cd $HOME  # or any other development directory you prefer
     $ git clone https://github.com/UAPH4582/PH482_582
-    $ cd handson-ml2
+    $ cd PH482_582
 
 If you do not want to install git, you can instead download [master.zip](https://github.com/ageron/handson-ml2/archive/master.zip), unzip it, rename the resulting directory to `handson-ml2` and move it to your development directory.
 

@@ -1,5 +1,12 @@
-Welcome to the main repository of the PH482/582 (Machine Learning) course at the University of Alabama. 
-In this repository, you can find the recipe to set up the environment for the practical tasks of the course as well as the hands-on assignments. The exercises are based on the second edition of Aurelien Geron's O'Reilly book [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/):
+=======
+This is the repository for the PH482/PH582 Machine Learning course. We are going to be using the notebooks developed by A. Geron for the O'Reilly book.
+
+Machine Learning Notebooks
+==========================
+
+This project aims at teaching you the fundamentals of Machine Learning in
+python. It contains the example code and solutions to the exercises in the second edition of my O'Reilly book [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/):
+
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51aqYc1QyrL._SX379_BO1,204,203,200_.jpg" title="book" width="150" />
 
@@ -43,6 +50,10 @@ Next, clone this project by opening a terminal and typing the following commands
 
     $ git clone https://github.com/UAPH4582/PH482_582
     $ cd PH482_582
+
+    $ git clone https://github.com/ddyachkova/PH482-PH582.git
+    $ cd PH482-PH582
+
 
 If you want to use a GPU, then edit `environment.yml` (or `environment-windows.yml` on Windows) and replace `tensorflow=2.0.0` with `tensorflow-gpu=2.0.0`. Also replace `tensorflow-serving-api==2.0.0` with `tensorflow-serving-api-gpu==2.0.0`.
 
